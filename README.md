@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kelzen
+- 👀 I’m interested in physics, maths, coding, and other STEMmy thingies.
+- 🌱 I’m currently studying physics(undergrad).
+- 💞️ I’m not really looking to collaborate but thanks for seeing my profile!
