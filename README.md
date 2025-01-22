@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kelzen
-- 👀 I’m interested in physics, maths, coding, and other STEMmy thingies.
-- 🌱 I’m currently studying physics(undergrad).
+- 👋 Hi, I’m Ellie!
+- 🌱 I’m currently studying physics as an undergrad student @AUTh.
+- 👀 I mainly study Cosmic Ray Physics, but I do have some Computational Number Theory projects on the side.
 - 💞️ I’m not really looking to collaborate but thanks for seeing my profile!
